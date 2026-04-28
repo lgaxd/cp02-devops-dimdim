@@ -166,7 +166,7 @@ README.md
   * Containers em execução
   * CRUD funcionando
   * Persistência no banco
-  * Link: https://www.youtube.com/watch?v=jSfm6BbLiIY
+  * Link: https://www.youtube.com/watch?v=Pff56hA-Wv8
 
 * Arquivo PDF contendo:
 
